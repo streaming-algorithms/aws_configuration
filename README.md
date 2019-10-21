@@ -72,7 +72,7 @@ Use your private key and your machine's public DNS in the command above.
  ```
  On your local machine run the following command to do port forwarding
  ```bash
- ssh -i privete_key.pem -N -f -L localhost:8080:localhost:8080 ubuntu@ecx-xx-xxx-xxx-xxx.eu-west-1.compute.amazonaws.com
+ ssh -i private_key.pem -N -f -L localhost:8080:localhost:8080 ubuntu@ecx-xx-xxx-xxx-xxx.eu-west-1.compute.amazonaws.com
  ```
  Use your private key and your machine's public DNS in the command above.
  Type 127.0.0.1:8080 in your browser and enter the token you copied earlier to access the notebook.
