@@ -84,7 +84,7 @@ Use your private key and your machine's public DNS in the command above.
  Open the data_exploration.ipynp notebook in aws_configuration project and run the 
  first cell. This step may take several minutes.
  
-Go through the notebook to learn more about the data.
+Go through the notebook to learn more about the data.   
 Source: https://wikitech.wikimedia.org/wiki/Analytics/Archive/Data/Pagecounts-raw
  
  
